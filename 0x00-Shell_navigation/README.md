@@ -22,6 +22,7 @@
 	
 ## Table of Contents
 * [About](#about)
+* [Resources](#resources)
 * [Requirements](#requirements)
 * [Tasks](#tasks)
 * [Credits](#credits)
