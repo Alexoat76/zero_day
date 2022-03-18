@@ -98,11 +98,8 @@ Update your Intranet profile by adding your Github username [here](https://intra
   - if it’s not done,  the Checker won’t be able to correct your work
 On your computer, open a terminal and do the following:
 * Navigate to your home directory. [Tips](https://intranet.hbtn.io/rltoken/nSl91LBC_er1QmayRs60Rg) 
-
 * Create a directory `zero_day` . [Tips](https://intranet.hbtn.io/rltoken/qE0DHC3e86f7eZF6mlqFyQ) 
-
 * Navigate to this new directory. [Tips](https://intranet.hbtn.io/rltoken/hgr3egDWXiBW_PIDqBAWDA) 
-
 * Initialize git and add the remote origin
 * Create a file `README.md` with `Emacs` or `Vi` (or other command line editors) and write a small [Markdown](https://intranet.hbtn.io/rltoken/Na_yqM9Y5nNNXtvjVAxZKA) 
  text to present this project. `This file is mandatory in all School projects`.<br>
@@ -125,12 +122,14 @@ And important part: Make sure your commit and push your code to Github - otherwi
 ---
  
 ### 2. Coding fury road
+	
++ **[c_is_fun.c](https://github.com/Alexoat76/zero_day/blob/main/0x03-git/c/c_is_fun.c)**
 
 For the moment we have an empty project directory containing only a `README.md`. It’s time to code!
 * Create these directories at the root of your project: `bash`, `c`, `js`.
 * Create these empty files:
 
-	*  `c/c_is_fun.c` 
+	*  `c/c_is_fun.c`
 	*  `js/main.js` 
 	*  `js/index.js` 
 
@@ -142,6 +141,9 @@ For the moment we have an empty project directory containing only a `README.md`.
 ---
 
 ### 3. Collaboration is the base of a company
+	
++ **[98](https://github.com/Alexoat76/zero_day/blob/main/0x03-git/bash/98)**
++ **[school](https://github.com/Alexoat76/zero_day/blob/main/0x03-git/bash/school)**
 
 A branch is like a copy of your project. It’s used mainly for:
 * adding a feature in development
@@ -181,7 +183,7 @@ After you have done that, in your terminal:
 
 ### 5. HAAA what did you do???
 	
-+ **[best](/bash/best)**
++ **[best](https://github.com/Alexoat76/zero_day/blob/main/0x03-git/bash/best)**
 
 Collaboration is cool, but not really when you update the same file at the same time…
 To illustrate that, please merge the branch `update_script` to `main` : “Cool, all my changes will be now part of the main branch, ready to be deployed!”
