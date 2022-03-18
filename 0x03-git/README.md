@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/LINUX-darkgreen.svg"/>
- <img src="https://img.shields.io/badge/Git-orange.svg"/>
+<img src="https://img.shields.io/badge/Git-orange.svg"/>
 <img src="https://img.shields.io/badge/Markdown-black.svg"/>
 	
 </p>
@@ -103,8 +103,10 @@ On your computer, open a terminal and do the following:
 * Initialize git and add the remote origin
 * Create a file `README.md` with `Emacs` or `Vi` (or other command line editors) and write a small [Markdown](https://intranet.hbtn.io/rltoken/Na_yqM9Y5nNNXtvjVAxZKA) 
  text to present this project. `This file is mandatory in all School projects`.<br>
-* Add this new file to git, commit the change with this message “My first commit” and push to the remote server / origin (Note: You will probably need to set your login/password to push to the remote server)<br>
+* Add this new file to git, commit the change with this message “My first commit” and push to the remote server / origin *(Note: You will probably need to set your login/password to push to the remote server)*<br>
+	
 Good job! <br>
+	
 You pushed your first file in your `first repository` of the `first task` of your first `School project`.
 
 ---
@@ -128,11 +130,9 @@ And important part: Make sure your commit and push your code to Github - otherwi
 For the moment we have an empty project directory containing only a `README.md`. It’s time to code!
 * Create these directories at the root of your project: `bash`, `c`, `js`.
 * Create these empty files:
-
 	*  `c/c_is_fun.c`
 	*  `js/main.js` 
 	*  `js/index.js` 
-
 * Create a file `bash/best` with these two lines inside: `#!/bin/bash` and `echo "Best"` 
 * Create a file `bash/school` with these two lines inside: `#!/bin/bash` and `echo "School"` 
 * Add all these new files to git
