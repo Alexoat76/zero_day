@@ -63,34 +63,41 @@ Extra resources:
  
 ## Tasks
 
-### 0. Create me!
-* Change your working directory to  `/root` 
-* Then, create an empty file  `so_cool` 
-
-### 1. More of me
-* Change your working directory to `/root` 
-* Then, copy the file `school` to `/tmp` 
-
-### 2. To old
-* Change your working directory to `/root` 
-* Then, rename the file `old_school` to `new_school` (in the same directory)
-
-### 3. Not here
-* Change your working directory to `/root` 
-* Then, move the file `not_here` to `/tmp/right_school` 
-
-### 4. Not anymore
-* Change your working directory to `/root` 
-* Then, delete the file `ready_to_be_removed` 
-
-### 5. Organization is key!
-* Change your working directory to `/root` 
-* Then, create a directory `school_is_amazing` 
-
-### 6. No need
-* Change your working directory to `/root` 
-* Then, remove the directory `empty_directory` 
-
++ [x] 0\. **Create me!**
+	* Change your working directory to  `/root` 
+	* Then, create an empty file  `so_cool` 
+---
+	
++ [x] 1\. **More of me**
+	* Change your working directory to `/root` 
+	* Then, copy the file `school` to `/tmp` 
+---
+	
++ [x] 2\. **To old**
+	* Change your working directory to `/root` 
+	* Then, rename the file `old_school` to `new_school` (in the same directory)
+---
+	
++ [x] 3\. **Not here**
+	* Change your working directory to `/root` 
+	* Then, move the file `not_here` to `/tmp/right_school` 
+---
+	
++ [x] 4\. **Not anymore**
+	* Change your working directory to `/root` 
+	* Then, delete the file `ready_to_be_removed` 
+---
+	
++ [x] 5\. **Organization is key!**
+	* Change your working directory to `/root` 
+	* Then, create a directory `school_is_amazing` 
+---
+	
++ [x] 6\. **No need**
+	* Change your working directory to `/root` 
+	* Then, remove the directory `empty_directory` 
+---
+	
 ## Credits
 
 ## Author(s):blue_book:
