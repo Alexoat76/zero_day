@@ -47,11 +47,13 @@ Read or watch :
 
 ## Tasks
 
-### 0. Create your answer directory
++ [x] 0\. **Create your answer directory**
 
-Navigate to `/root` and create a directory named `0x02_vi` 
-
-### 1. Inserting
+	* Navigate to `/root` and create a directory named `0x02_vi`.
+	
+---
+	
++ [x] 1\. **Inserting**
 
 + **[1-inserting](./1-inserting)**
 
@@ -65,8 +67,9 @@ root@hex:~# ls -l /root/0x02_vi/inserting
 -rw-r--r-- 1 root root 2 Nov 11 04:34 /root/0x02_vi/inserting
 root@hex:~# 
 ```
-
-### 2. Cutting
+---
+	
++ [x] 2\. **Cutting**
 
 + **[2-cutting](./2-cutting)**
 
@@ -75,46 +78,48 @@ root@hex:~#
 
 **Tips:**
 - **[How to Copy, Cut and Paste](https://intranet.hbtn.io/rltoken/mJvtwbqnq-jtTBZBpg5O5A)** 
+---
 
-
-### 3. Pasting
++ [x] 3\. **Pasting**
 
 + **[3-pasting](./3-pasting)**
 
 	* What is the command to paste the lines in the buffer into the text after the current line?
 	* Write the answer into the file `/root/0x02_vi/pasting`.
+---
 
-
-### 4. Undoing
++ [x] 4\. **Undoing**
 
 + **[4-undoing](./4-undoing)** 
 
 	* What is the command to undo what you just did?
 	* Write the answer into the file `/root/0x02_vi/undoing`.
-
-### 5. Exiting
+---
+	
++ [x] 5\. **Exiting**
 
 + **[5-exiting](./5-exiting)**
 	
 	* What is the command to quit vi even though latest changes have not been saved for this vi call?
 	* Write the answer into the file `/root/0x02_vi/exiting`.
+---
 
-
-### 6. Beginning of the line
++ [x] 6\. **Beginning of the line**
 
 + **[6-beginning_line](6-beginning_line)**
 
 	* What is the command to move the cursor to the start of the current line?
 	* Write the answer into the file `/root/0x02_vi/beginning_of_the_line`.
+---
 
-
-### 7. End of the line
++ [x] 7\. **End of the line**
 
 + **[7-end_line](./7-end_line)**
 
 	* What is the command to move the cursor to the end of the line?
 	* Write the answer into the file `/root/0x02_vi/end_of_the_line`.
-	
+---
+
 ## Credits
 
 ## Author(s):blue_book:
