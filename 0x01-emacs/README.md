@@ -48,11 +48,11 @@ Read or watch :
 * All tasks must be done inside the `Sandbox` `Ubuntu 20.04` of `intranet` **Holberton School**.
 
 ## Tasks
-### 0. Create your answer directory
++ [x] 0\. **Create your answer directory**
 
 * Navigate to `/root` and create a directory named `0x01_emacs`. 
-
-### 1. Opening
+---
++ [x] 1\. **Opening**
 
 + **[1-opening](./1-opening)**
 	* What is the command to open a file from within Emacs?
@@ -65,43 +65,43 @@ root@hex:~# ls -l /root/0x01_emacs/opening
 -rw-r--r-- 1 root root 9 Nov 11 04:34 /root/0x01_emacs/opening
 root@hex:~# 
 ```
-
-### 2. Saving
+---
++ [x] 2\. **Saving**
 
 + **[2-saving](./2-saving)**
 	* What is the command to save a file?
 	* Write the answer into the file `/root/0x01_emacs/saving`.
-
-### 3. Cutting
+---
++ [x] 3\. **Cutting**
 
 + **[3-cutting](./3-cutting)**
 	* What is the command to cut an entire line?
 	* Write the answer into the file `/root/0x01_emacs/cutting`.
-
-### 4. Pasting
+---
++ [x] 4\. **Pasting**
 	
 + **[4-pasting](./4-pasting)**
 	* What is the command to paste?
 	* Write the answer into the file ` /root/0x01_emacs/pasting`.
-
-### 5. Searching
+---
++ [x] 5\. **Searching**
 	
 + **[5-searching](5-searching)**
 	* What is the command to search forward?
 	* Write the answer into the file `/root/0x01_emacs/searching`.
-
-### 6. Undoing
+---
++ [x] 6\. **Undoing**
 
 + **[6-undoing](./6-undoing)**
 	* What is the command to undo?
 	* Write the answer into the file `/root/0x01_emacs/undoing`.
-
-### 7. Quitting
+---
++ [x] 7\. **Quitting**
 
 + **[7-quitting](./7-quitting)**
 	* What is the command to quit Emacs?
 	* Write the answer into the file `/root/0x01_emacs/quitting`.
-  
+ --- 
 ## Credits
 
 ## Author(s):blue_book:
