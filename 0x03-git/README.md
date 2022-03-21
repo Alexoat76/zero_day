@@ -82,7 +82,7 @@ $ git push origin main
 ```
 ## Tasks
 
-### 0. Create and setup your Git and GitHub account
++ [x] 0\. **Create and setup your Git and GitHub account**
 
 You will need Git for this project, you might have to  [install it](https://intranet.hbtn.io/rltoken/n2SJyaVuu1tuhVgHSKw5Sg) 
   on your computer if it’s not done yet.
@@ -112,7 +112,7 @@ You pushed your first file in your `first repository` of the `first task` of you
 
 ---
 
-### 1. Repo-session
++ [x] 1\. **Repo-session**
 
 Create a new directory called `0x03-git` in your `zero_day` repo.<br> 
 Make sure you include a not empty `README.md` in your directory:<br>
@@ -124,7 +124,7 @@ And important part: Make sure your commit and push your code to Github - otherwi
 
 ---
  
-### 2. Coding fury road
++ [x] 2\. **Coding fury road**
 	
 + **[c_is_fun.c](https://github.com/Alexoat76/zero_day/blob/main/0x03-git/c/c_is_fun.c)**
 
@@ -141,7 +141,7 @@ For the moment we have an empty project directory containing only a `README.md`.
 
 ---
 
-### 3. Collaboration is the base of a company
++ [x] 3\. **Collaboration is the base of a company**
 	
 + **[98](https://github.com/Alexoat76/zero_day/blob/main/0x03-git/bash/98)**
 + **[school](https://github.com/Alexoat76/zero_day/blob/main/0x03-git/bash/school)**
@@ -169,7 +169,7 @@ Ouf, hot fix is done!
 
 ---
 
-### 4. Collaboration: be up to date
++ [x] 4\. **Collaboration: be up to date**
 	
 + **[up_to_date](/up_to_date)**
 
@@ -182,7 +182,7 @@ After you have done that, in your terminal:
 
 ---
 
-### 5. HAAA what did you do???
++ [x] 5\. **HAAA what did you do???**
 	
 + **[best](https://github.com/Alexoat76/zero_day/blob/main/0x03-git/bash/best)**
 
@@ -200,7 +200,7 @@ At the end, you should have all your work from the branch `update_script` (new f
 
 ---	
 	
-### 6. Never push too much
++ [x] 6\. **Never push too much**
 
 + **[.gitignore](/.gitignore)**
 	
