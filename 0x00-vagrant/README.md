@@ -86,7 +86,8 @@ $ git push origin main
 This project can’t be done in Sandboxes  - it can be done only in your local computer.
 
 ## Tasks
-### 0. Create and setup your Git and GitHub account.
+	
++ [x] 0\. **Create and setup your Git and GitHub account**
 
 You will need Git for this project, you might have to **[install it](https://intranet.hbtn.io/rltoken/TJrA7MIEl9LxnkGNH_ddmw)**
   on your computer if it’s not done yet.
@@ -113,14 +114,17 @@ On your computer, open a terminal and do the following:
 
 You pushed your first file in your  `first repository`  of the  `first task`  of your `first School project`.
 
-### 1. Hello Ubuntu
+---
+	
++ [x] 1\. **Hello Ubuntu**
 
 + **[0-hello_ubuntu](./0-hello_ubuntu)**
 	
 	* Inside the `zero_day` repo, create a new directory called `0x00-vagrant`. Add a `README.md` file to this directory. 
 	`ssh` into your `Ubuntu VM`. What does the command `uname` print when you run it without any option? 
 	Type your answer into a file in the `0x00-vagrant` directory and push it to GitHub. Name your file is **`0-hello_ubuntu`**.
-
+---
+	
 ## Credits
 
 ## Author(s):blue_book:
