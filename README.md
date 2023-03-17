@@ -27,6 +27,7 @@ This repository contains scripts or files written into text editors, like `Emacs
 </p>	
 
 ## Table of Contents :clipboard:
+
 * [About](#about)
 * [Requirements](#requirements)
 * [Projects](#projects)
