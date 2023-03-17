@@ -33,7 +33,6 @@ This repository contains scripts or files written into text editors, like `Emacs
 * [Projects](#projects)
 * [Credits](#credits)
 
-
 ## About
 The projects in this repository cover:
 
